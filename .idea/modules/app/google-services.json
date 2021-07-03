@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "504817274347",
+    "firebase_url": "https://final-blood-lifeline.firebaseio.com",
+    "project_id": "final-blood-lifeline",
+    "storage_bucket": "final-blood-lifeline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504817274347:android:f562993f72b8c8be2fddae",
+        "android_client_info": {
+          "package_name": "com.example.bloodlifeline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504817274347-q7uibs9tvh5a68j2eqbuv5vggg5l3hlc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bloodlifeline",
+            "certificate_hash": "37f59a26d01547524d976b2200b34cf0c973d13a"
+          }
+        },
+        {
+          "client_id": "504817274347-rukva4p21ekri4ba473pdon06gjbkri9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCRpBmIaJLRjkzU5HzKwlDLJtP3la--CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504817274347-rukva4p21ekri4ba473pdon06gjbkri9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
